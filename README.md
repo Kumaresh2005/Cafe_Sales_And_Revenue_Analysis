@@ -1,7 +1,7 @@
 ****☕ Cafe Sales & Revenue Dashboard**
 
-Interactive Cafe Sales & Revenue Dashboard built in Excel using Pivot Tables, Charts, KPI Cards, and Slicers. This dashboard provides detailed insights into sales performance, revenue trends, product analysis, payment methods, purchase types, and city-wise revenue analysis with dynamic and professional visualizations.
 ![Dashboard Screenshot](https://github.com/Kumaresh2005/Cafe_Sales_And_Revenue_Analysis/blob/main/Screenshot%202026-05-10%20182758.png?raw=true)
+
 📌 Project Overview
 
 An interactive Cafe Sales & Revenue Dashboard developed in Microsoft Excel using Pivot Tables, KPI Cards, Charts, and Slicers to analyze business performance and generate actionable insights through dynamic visualizations.
